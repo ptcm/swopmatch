@@ -2,8 +2,6 @@
 	
 	try {
 	    $dsn = 'mysql:host=localhost;dbname=swopmatc_sMatch';
-	        //$username = 'swopmatc_swopmat';
-			//$password = 'swopenter1';
 	        $username = 'root';
 			$password = '';
 
